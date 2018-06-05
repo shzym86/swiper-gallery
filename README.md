@@ -9,5 +9,5 @@
 - DOM结构简单，导航栏代码直接通过JS生成
 
 
-[效果预览](https://shzym86.github.io/swiper-gallery)
+[效果预览](https://shzym86.github.io/swiper-gallery/)
 
